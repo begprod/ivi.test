@@ -1,0 +1,27 @@
+.list
+	padding: 0
+	list-style: none
+	counter-reset: item
+	&__item
+		display: flex
+		flex-direction: row
+		flex-wrap: nowrap
+		justify-content: flex-start
+		align-items: flex-start
+		margin: 0 0 25px 0
+		counter-increment: item
+		&::before
+			content: counter(item)
+			min-width: 50px
+			min-height: 50px
+			max-width: 50px
+			max-height: 50px
+			margin: 0 10px 0 0
+			line-height: 50px
+			font-size: 32px
+			text-align: center
+			color: white
+			background-color: $mainColor
+			border-radius: 100%
+	&__text
+		align-self: center

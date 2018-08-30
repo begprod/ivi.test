@@ -1,0 +1,11 @@
+<ol class="list wrapper">
+	<li class="list__item">
+		<span class="list__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ducimus minus nisi odit quae quia quidem quisquam!</span>
+	</li>
+	<li class="list__item">
+		<span class="list__text">Lorem ipsum dolor sit amet, consectetur.</span>
+	</li>
+	<li class="list__item">
+		<span class="list__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dignissimos ea ex exercitationem harum iure neque, obcaecati pariatur rem repellat, vel veniam voluptates! Aliquid blanditiis eaque explicabo illum ipsum?</span>
+	</li>
+</ol>

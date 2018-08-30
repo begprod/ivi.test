@@ -1,0 +1,6 @@
+{% extends 'layout.nunjucks' %}
+
+{% block content %}
+	{% include 'partials/hero.nunjucks' %}
+	{% include 'partials/list.nunjucks' %}
+{% endblock %}

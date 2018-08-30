@@ -1,0 +1,12 @@
+<section class="hero wrapper">
+	<div class="hero__inner">
+		<h1 class="hero__head">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae dolorum est et molestias, nam possimus qui quos sequi tempora totam!</h1>
+		<div class="btns hero__btns">
+			<button class="btn btns__item" type="button">360p</button>
+			<button class="btn btns__item" type="button">720p</button>
+			<button class="btn btns__item" type="button">HD</button>
+			<button class="btn btns__item" type="button">Full HD</button>
+			<button class="btn btns__item" type="button">4k</button>
+		</div>
+	</div>
+</section>
